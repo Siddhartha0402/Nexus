@@ -2,7 +2,7 @@ fastapi==0.115.0
 uvicorn==0.30.6
 langchain==0.3.7
 langchain-openai==0.2.8
-langchain-pinecone==0.2.0
+langchain-pinecone==0.0.1
 pinecone==5.3.1
 openai==1.51.2
 arxiv==2.1.3
