@@ -9,4 +9,3 @@ arxiv==2.1.3
 python-dotenv==1.0.1
 tiktoken==0.8.0
 numpy==1.26.4
-simsimd==3.9.1
